@@ -14,7 +14,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # ───────── TOKEN (use env var, never hardcode) ─────────
-BOT_TOKEN = 8618407509:AAGf2IZ7ubM3wnL9SaccFDMl4_UrfVYf7Nk
+BOT_TOKEN = "8618407509:AAGf2IZ7ubM3wnL9SaccFDMl4_UrfVYf7Nk"
 
 # ───────── CONFIG ─────────
 MAX_SIZE_MB    = 50       # Max file size in megabytes
